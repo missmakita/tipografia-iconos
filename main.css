@@ -1,15 +1,14 @@
 .contenedor {
 	text-align: center;
 	display: inline;
-	height: 310px;
+	height: 350px;
 	width: auto;
 	overflow: hidden;
-	color: darkmagenta;
+	color: darkmagenta; 	
 }
 
 h1, h2, h5, p {
 	font-family: 'Roboto', sans-serif;
-	text-align: center;
 }
 
 h5 {
