@@ -1,0 +1,80 @@
+.contenedor {
+	text-align: center;
+	display: inline;
+	height: 310px;
+	width: auto;
+	overflow: hidden;
+	color: darkmagenta;
+}
+
+h1, h2, h5, p {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+h5 {
+	font-style: italic;
+	margin-bottom: 0;
+}
+
+p {
+	padding: 0 9px 0 9px;
+	font-size: 80%;
+	margin-top: 3%;
+}
+
+.avion {
+	width: 210px;
+	height: 300px;
+	background-color: #F3F3F3;
+	display: inline;
+	position: relative;
+	float: left;
+	margin-right: 10px;
+	box-shadow: 3px 3px 2px 0 lightgrey;
+}
+
+.ruby {
+	width: 210px;
+	height: 300px;
+	background-color: #F3F3F3;
+	position: relative;
+	float: left;
+	margin-right: 10px;
+	box-shadow: 3px 3px 2px 0 lightgrey;
+}
+
+.love {
+	width: 215px;
+	height: 310px;
+	background-color: white;
+	position: relative;
+	float: left;
+	margin-right: 5px;
+	box-shadow: 4px 4px 4px 0 lightgrey;
+	font-size: 105%
+}
+
+.cafe {
+	width: 210px;
+	height: 300px;
+	background-color: #F3F3F3;
+	position: relative;
+	float: left;
+	margin-right: 10px;
+	box-shadow: 3px 3px 2px 0 lightgrey;
+}
+
+.comida {
+	width: 210px;
+	height: 300px;
+	background-color: #F3F3F3;
+	position: relative;
+	float: left;
+	margin-right: 10px;
+	box-shadow: 3px 3px 2px 0 lightgrey;
+}
+
+.fa {
+	padding: 35px 0 10px 0;
+}
